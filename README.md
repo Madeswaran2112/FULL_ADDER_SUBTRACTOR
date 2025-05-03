@@ -2,7 +2,7 @@
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 ``` 
-Developed by: Macdeswaran M
+Developed by: Madeswaran M
 RegisterNumber: 212223040106
 ```
 
